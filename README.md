@@ -1,1 +1,1 @@
-# static
+archived static files
